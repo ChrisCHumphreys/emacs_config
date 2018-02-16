@@ -1,4 +1,6 @@
-((("handleCreateFormSubmit" .
+((("rjxs" .
+   [1 0 0 0])
+  ("handleCreateFormSubmit" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
   ("newTimer" .
    [1 0 0 0 0 0 0 0])
@@ -227,4 +229,6 @@
   ("state" .
    [12 0 0 0 0])
   ("products" .
-   [1 0 0 0 0 0 0 0])))
+   [1 0 0 0 0 0 0 0])
+  ("js-indent-level" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])))

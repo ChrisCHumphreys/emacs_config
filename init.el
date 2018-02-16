@@ -41,9 +41,12 @@
 (add-hook 'objc-mode-hook 'irony-mode)
 
 ;; evil mode configs
-;;(require 'evil)
-;;(evil-mode 1)
+(require 'evil)
+(evil-mode 1)
 
 ;; turn on autocomplete
 (global-auto-complete-mode t)
 (show-paren-mode t)
+
+;; rjxs mode for js
+(add-to-list 'auto-mode-alist '("\\.js\\'" . rjsx-mode))
