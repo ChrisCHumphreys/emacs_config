@@ -1,0 +1,230 @@
+((("handleCreateFormSubmit" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("newTimer" .
+   [1 0 0 0 0 0 0 0])
+  ("helpers" .
+   [1 0 0 0 0 0 0])
+  ("createTimer" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("onFormClose" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("handleFormSubmit" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("onFormSubmit" .
+   [2 0 0 0 0 0 0 0 0 1 0 0])
+  ("handleSubmit" .
+   [0 0 0 0 0 0 1 0 0 1 0 0])
+  ("onClick" .
+   [0 0 0 0 0 2 0])
+  ("value" .
+   [1 0 0 0 0])
+  ("target" .
+   [1 0 0 0 0 0])
+  ("handleProjectChange" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("setState" .
+   [4 0 0 0 0 1 0 0])
+  ("handleTitleChange" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("onChange" .
+   [0 0 0 0 0 1 0 0])
+  ("handleFormOpen" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("isOpen" .
+   [2 0 0 2 0 0])
+  ("editFormOpen" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("div" .
+   [1 0 0])
+  ("return" .
+   [1 0 0 0 0 0])
+  ("EditableTimer" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("timer" .
+   [8 0 0 0 0])
+  ("props" .
+   [9 0 0 0 0])
+  ("this" .
+   [24 0 0 0])
+  ("const" .
+   [2 0 0 0 0])
+  ("now" .
+   [1 0 0])
+  ("Date" .
+   [1 0 0 0])
+  ("runningSince" .
+   [0 0 0 0 1 1 1 1 0 0 0 0])
+  ("elapsed" .
+   [4 0 0 0 0 0 0])
+  ("v4" .
+   [3 0])
+  ("uuid" .
+   [3 0 0 0])
+  ("id" .
+   [13 0])
+  ("Chores" .
+   [2 0 0 0 0 0])
+  ("project" .
+   [8 0 0 0 1 0 0])
+  ("title" .
+   [9 0 0 0 0])
+  ("timers" .
+   [8 0 0 0 0 0])
+  ("true" .
+   [2 0 0 0])
+  ("false" .
+   [5 0 0 0 0])
+  ("content" .
+   [1 0 0 0 0 0 0])
+  ("TimersDashboard" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("render" .
+   [1 0 0 0 0 0])
+  ("getTerm" .
+   [1 0 0 0 0 0 2])
+  ("docCount" .
+   [6 0 0 0 0 1 0 0])
+  ("endl" .
+   [2 0 0 0])
+  ("tempTerm" .
+   [8 0 0 0 0 0 0 0])
+  ("termList" .
+   [8 0 0 0 0 0 0 0])
+  ("getwordsArrayPtr" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Term" .
+   [14 0 0 0])
+  ("getNumOfWords" .
+   [0 0 0 0 0 2 1 0 0 0 0 0 0])
+  ("get" .
+   [1 0 0])
+  ("printCurrentArray" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Documents" .
+   [1 0 0 0 0 0 0 0 0])
+  ("documentList" .
+   [2 0 0 0 0 0 1 0 0 3 0 0])
+  ("createDocuments" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("removeDuplicates" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("loop" .
+   [1 0 0 0])
+  ("tempCounter" .
+   [1 0 0 0 2 0 1 2 0 0 1])
+  ("tempWordPtr" .
+   [1 0 0 0 1 0 0 0 3 0 4])
+  ("string" .
+   [20 0 0 0 0 0])
+  ("std" .
+   [26 0 0])
+  ("wordsArrayPtr" .
+   [0 0 0 0 4 0 1 1 0 1 0 0 5])
+  ("cleanWords" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("added" .
+   [0 0 0 0 1])
+  ("add-to-list" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("void" .
+   [0 0 0 1])
+  ("Book" .
+   [5 0 0 1])
+  ("removePunctuationFrontBack" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("numOfWords" .
+   [2 0 0 0 0 5 1 0 0 3])
+  ("book1" .
+   [2 0 0 0 0])
+  ("alphabetizeWords" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("a" .
+   [1])
+  ("arraySize" .
+   [3 0 0 1 0 1 0 1 2])
+  ("width" .
+   [5 0 0 0 1])
+  ("unsorted" .
+   [7 0 0 3 0 0 2 1])
+  ("min" .
+   [3 0 0])
+  ("workArray" .
+   [5 0 0 0 1 0 0 1 4])
+  ("BottomUpMerge" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("iLeft" .
+   [5 0 0 0 0])
+  ("iRight" .
+   [4 0 0 0 0 0])
+  ("iEnd" .
+   [4 0 0 0])
+  ("in" .
+   [12 0])
+  ("A" .
+   [1])
+  ("CopyArray" .
+   [1 0 0 0 0 0 1 0 0])
+  ("size" .
+   [1 0 0 0])
+  ("words" .
+   [1 0 0 0 0])
+  ("explore" .
+   [0 0 0 0 0 0 1])
+  ("filePath" .
+   [2 0 0 0 0 1 1 0])
+  ("c_str" .
+   [3 0 0 0 0])
+  ("directory" .
+   [4 0 0 0 0 0 0 0 0])
+  ("s" .
+   [3])
+  ("InvertedIndex" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("run" .
+   [1 0 0])
+  ("term" .
+   [7 0 0 0])
+  ("cout" .
+   [3 0 0 0])
+  ("doc" .
+   [5 0 0])
+  ("docID" .
+   [6 0 0 0 0])
+  ("getDocID" .
+   [1 0 0 0 0 0 0 0])
+  ("incrementDocCount" .
+   [1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0])
+  ("docIdPtr" .
+   [2 0 0 0 0 1 0 2])
+  ("tempHolder" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("temp" .
+   [1 0 0 0])
+  ("docIDPtr" .
+   [0 0 0 0 0 1 1 0])
+  ("ID" .
+   [3 0])
+  ("i" .
+   [4])
+  ("addDocID" .
+   [0 0 0 0 0 0 0 1])
+  ("document" .
+   [0 0 0 0 0 0 0 2])
+  ("create" .
+   [1 0 0 0 0 0])
+  ("old" .
+   [3 0 0])
+  ("newPtr" .
+   [8 0 0 0 0 0])
+  ("oldPtr" .
+   [8 0 0 0 0 0])
+  ("additionalTerms" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("null" .
+   [2 0 0 0])
+  ("NULL" .
+   [2 0 0 0])
+  ("state" .
+   [12 0 0 0 0])
+  ("products" .
+   [1 0 0 0 0 0 0 0])))
